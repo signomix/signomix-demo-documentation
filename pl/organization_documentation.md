@@ -1,0 +1,1 @@
+# Dokumentacja dla organizacji

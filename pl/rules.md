@@ -1,0 +1,1 @@
+# Reguły analizy danych przychodzących
