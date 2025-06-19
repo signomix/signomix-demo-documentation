@@ -1,5 +1,6 @@
 # Signomix Demo
 ![Signomix Logo](../assets/demo-logo.png)
+
 Wersja demonstracyjna Signomiksa prezentuje funkcjonalności platformy z uwzględnieniem funkcjonalności dedykowanych dla wersji Enterprise. Możesz przetestować wszystkie funkcje, które są dostępne w wersji Enterprise, w tym:
 - konfigurowalną stronę główną
 - whitelabbeling (konfigurowalne logo i kolorystyka)
